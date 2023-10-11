@@ -1,0 +1,8 @@
+.root {
+  position: absolute;
+  left: 0;
+  right: 93.7143%;
+  top: 0;
+  bottom: 54.1667%;
+  flex-direction: column;
+}

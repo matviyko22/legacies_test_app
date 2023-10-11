@@ -1,0 +1,10 @@
+.label.label {
+  align-self: flex-start;
+}
+.root {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  padding: 12px 20px;
+  background-color: #0065f2;
+}
